@@ -28,7 +28,7 @@ class SplashMobilePortrait extends GetView<SplashLogic> {
               CircleAvatar(
                 radius: const AdaptiveIconSize().getIconSize(Get.context, 30, sizingInformation!.localWidgetSize.height),
                 backgroundColor: Colors.blue,
-                child: Icon(FontAwesome5Brands.avianex,color: ColorConstants.WHITE,size: const AdaptiveIconSize().getIconSize(Get.context, 25, sizingInformation!.localWidgetSize.height)),
+                child: Icon(Icons.email_rounded,color: ColorConstants.WHITE,size: const AdaptiveIconSize().getIconSize(Get.context, 25, sizingInformation!.localWidgetSize.height)),
               ),
               SizedBox(height: sizingInformation!.localWidgetSize.height*0.3,),
               const CupertinoActivityIndicator(),
