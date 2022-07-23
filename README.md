@@ -2,17 +2,10 @@
 
 MAIL.TM working api and UI.
 
-## Getting Started
+## Working APK Link
+Link --> [https://mega.nz/file/QCA1QZYQ#C1w-UZXF1L3_Z6K09-S-sc2wZhvHK90M-KRML9ElhF4](https://mega.nz/file/QCA1QZYQ#C1w-UZXF1L3_Z6K09-S-sc2wZhvHK90M-KRML9ElhF4)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ![alt text](https://github.com/Sayed-Siam123/riseup_assignment/blob/master/screenshots/Screenshot_20220723-214846.png)
+![alt text](https://github.com/Sayed-Siam123/riseup_assignment/blob/master/screenshots/Screenshot_20220723-214915.png)
+![alt text](https://github.com/Sayed-Siam123/riseup_assignment/blob/master/screenshots/Screenshot_20220723-214936.png)
