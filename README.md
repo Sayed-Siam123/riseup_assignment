@@ -1,6 +1,6 @@
-# riseup_assignment
+# rise up assignment
 
-A new Flutter project.
+MAIL.TM working api and UI.
 
 ## Getting Started
 
