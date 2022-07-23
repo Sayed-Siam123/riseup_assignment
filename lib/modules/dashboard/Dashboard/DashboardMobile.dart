@@ -34,7 +34,7 @@ class DashboardMobilePortrait extends GetView<DashboardLogic> {
             centerTitle: true,
             menuEnable: false,
             actionEnable: true,
-            menuTap: () async{;
+            menuTap: () async{
               print(StoragePrefs().lsRead(key: StorageConstants.token));
             },
             actionTap: () async{
